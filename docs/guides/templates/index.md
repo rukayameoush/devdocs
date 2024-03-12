@@ -217,7 +217,7 @@ Blocks are particularly useful for building a library of re-usable components.
 
 ## Helpers
 
-Moodle providers several Mustache helpers. Helpers tags look like sections eventually containing zero or more parameters.
+Moodle provids several Mustache helpers. Helpers tags look like sections eventually containing zero or more parameters.
 
 ### str
 
@@ -268,7 +268,7 @@ There is a potential problem though. If the variable tag `itemname` evaluates to
 
 ### pix
 
-The `{{#pix}}` is a icon picture helper for generating pix icon tags.
+The `{{#pix}}` is an icon picture helper for generating pix icon tags.
 
 ```handlebars
 {{#pix}} t/edit, core, Edit this section {{/pix}}
